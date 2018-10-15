@@ -7,7 +7,7 @@ The hacklab serves as an open space where interested people can work on various 
 
 ## When is it open?
 
-Check on: [https://status.spodeli.org](https://status.spodeli.org/).
+Check here: [https://status.spodeli.org](https://status.spodeli.org/).
 
 
 ## WHAT THE HACK?
@@ -45,10 +45,10 @@ SWIFT:
 TUTNMK22
 
 
-## Адреса
+## Address
 
-st. Naum Naumovski Borce
-no. 38 apt. 12
+Naum Naumovski Borce 38
+apt. 12, floor 5
 1000 Skopje, Republic of Macedonia
 
 
