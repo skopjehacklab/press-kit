@@ -19,7 +19,7 @@ KIKA hacklab is a project of Free Software Macedonia.
 
 ## Why KIKA?
 
-Learn new technologies and tech-related stuff, get help with Free and Open Source Software, hardware or electronics, learn about free culture, how to protect yourself and your rights, freely discuss all the topics you think about, work on and develop some of those ideas you keep in a box under your bed, drink all the coffee/tea/fruit you like, get guidance with local and global programmes like Google Summer of Code or GNOME Women Outreach, make new friends and do an event, and have some fun together.
+Learn new technologies and tech-related stuff, get help with Free and Open Source Software, hardware or electronics, learn about free culture, how to protect yourself and your rights, freely discuss all the topics you think about, work on and develop some of those ideas you keep in a box under your bed, drink all the coffee/tea/fruit you like, get guidance on local and global programmes like Google Summer of Code or GNOME Women Outreach, make new friends and do an event, and have some fun together.
 
 
 ## Where do I contact you?
