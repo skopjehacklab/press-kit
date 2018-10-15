@@ -38,20 +38,20 @@ Anëtarësia nuk është e domosdoshme, por nëse don të bëhesh anëtar i KIKA
 
 ## Ku të donoj?
 
-Llogaria transakcionale:
+Llogaria transakcionale:  
 210-0570883401-10
 
-Shifra e të ardhurave:
+Shifra e të ardhurave:  
 562 (Pagesa për donacione)
 
-Qëllimi i pagesës:
+Qëllimi i pagesës:  
 Donacion për projektin KIKA
 
 
 ## Adresa
 
-rr. Naum Naumovski Borçe
-nr. 38, banesa nr. 12
+Naum Naumovski Borçe 38  
+banesa nr. 12  
 1000 Shkup, R. e Maqedonisë
 
 
