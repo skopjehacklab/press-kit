@@ -38,17 +38,17 @@ Membership is not required, though if you want to become a member of KIKA and su
 
 ## How do I donate?
 
-IBAN:
+IBAN:  
 MK07210057088340110
 
-SWIFT:
+SWIFT:  
 TUTNMK22
 
 
 ## Address
 
-Naum Naumovski Borce 38
-apt. 12, floor 5
+Naum Naumovski Borce 38  
+apt. 12, floor 5  
 1000 Skopje, Republic of Macedonia
 
 
