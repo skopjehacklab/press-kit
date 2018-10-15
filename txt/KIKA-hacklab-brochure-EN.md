@@ -19,7 +19,7 @@ KIKA hacklab is a project of Free Software Macedonia.
 
 ## Why KIKA?
 
-Learn new technologies and tech-related stuff, get help with Free and Open Source Software, hardware or electronics, learn about free culture, how to protect yourself and your rights, freely discuss all the topics you think about, work on and develop some of those ideas you keep in a box under your bed, drink all the coffee/tea/fruit you like, get guidance on local and global programmes like Google Summer of Code or GNOME Women Outreach, make new friends and do an event, and have some fun together.
+Learn new technologies and tech-related stuff, get help with Free and Open Source Software, hardware or electronics, learn about free culture, how to protect yourself and your rights, freely discuss all the topics you think about, work on and develop some of those ideas you keep in a box under your bed, drink all the coffee/tea/fruit you like, get guidance on local and global programmes like Google Summer of Code or GNOME Women Outreach, make new friends, host and attend events together, and have fun.
 
 
 ## Where do I contact you?
@@ -38,17 +38,17 @@ Membership is not required, though if you want to become a member of KIKA and su
 
 ## How do I donate?
 
-IBAN:  
+IBAN:
 MK07210057088340110
 
-SWIFT:  
+SWIFT:
 TUTNMK22
 
 
 ## Address
 
-Naum Naumovski Borce 38  
-apt. 12, floor 5  
+Naum Naumovski Borce 38
+apt. 12, floor 5
 1000 Skopje, Republic of Macedonia
 
 
