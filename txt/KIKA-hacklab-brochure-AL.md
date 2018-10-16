@@ -10,16 +10,16 @@ Haklabi shërben si hapësirë e hapur ku të interesuarit mund të punojnë pro
 Kontrollo në [https://status.spodeli.org](https://status.spodeli.org/).
 
 
-## WHAT THE HACK?
+## UAT DHË HAK?
 
-Haklabe ka çdokund në botë. KIKA është një nga to, ndërsa ekziston nga 17 tetor 2009.
+Haklabe ka çdokund në botë. KIKA është një nga to, ndërsa ekziston prej 17 tetor 2009.
 
-Haklabi KIKA është projekt i Softuerit të Lirë – Maqedoni.
+Haklabi KIKA është projekt i Softuerit të Lirë Maqedoni.
 
 
 ## Përse haklab?
 
-Që të mësosh gjëra të reja nga bota e softuerit dhe harduerit, që të gjesh ndihmë për zhvillimin e disa nga ideve tua që mendon se asnjëherë nuk mund t’i realizosh, që të të lehtësohen problemet në jetë me distribucionet e GNU/Linux, që të hash ëmbëlsira deri sa nuk plas, që të mësosh se si të mbrohesh në internet dhe t’i mësosh të drejtat që i posedon deri sa surfon, që lirshëm të pish filter-kafe, që të fitosh udhëzime të mira për programin GNOME Women Outreach, që të marrësh ndihmë për Google Summer of Code dhe të bësh shumë shumë punë tjera interesante.
+Mëso gjëra të reja të lidhura me teknologjinë, kërko ndihmë në lidhje me Free and Open Source Software, harduer ose elektronikë, mëso për kulturën e lirë, si të mbrohesh dhe për të drejtat që i posedon, lirshëm bisedo për të gjitha temat që të rrotullohen në kokë, zhvillo ndonjë nga idetë që i ruan në kutinë nën krevat, pi kafe/çaj/fruta sipas shijes tënde, merr udhëzime për programe vendore dhe botërore si Google Summer of Code ose GNOME Women Outreach, fito shokë të ri, organizoni ose vizitoni ndonjë ngjarje dhe zbavituni.
 
 
 ## Ku t’ju kontaktoj?
@@ -38,20 +38,20 @@ Anëtarësia nuk është e domosdoshme, por nëse don të bëhesh anëtar i KIKA
 
 ## Ku të donoj?
 
-Llogaria transakcionale:  
+Llogaria transakcionale:
 210-0570883401-10
 
-Shifra e të ardhurave:  
+Shifra e të ardhurave:
 562 (Pagesa për donacione)
 
-Qëllimi i pagesës:  
+Qëllimi i pagesës:
 Donacion për projektin KIKA
 
 
 ## Adresa
 
-Naum Naumovski Borçe 38  
-banesa nr. 12  
+Naum Naumovski Borçe 38
+banesa nr. 12
 1000 Shkup, R. e Maqedonisë
 
 
