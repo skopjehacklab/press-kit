@@ -3,7 +3,7 @@
 This repository contains:
 
 - Various versions of the KIKA logotype
-- Branded leaflets designs
+- Branded leaflet designs
 - Branded sticker designs
 - Branded T-shirt designs
 - Publications for KIKA hacklab
